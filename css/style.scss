@@ -187,7 +187,7 @@ a:focus {
     .nav-item {
       .nav-link {
         padding: 5px 20px;
-        color: $white;
+        color: #0c0c0c;
         text-align: center;
         text-transform: uppercase;
         border-radius: 5px;
@@ -197,7 +197,7 @@ a:focus {
       &:hover,
       &.active {
         .nav-link {
-          color: $primary1;
+          color: $white;
         }
       }
     }
