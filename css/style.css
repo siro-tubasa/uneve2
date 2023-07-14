@@ -167,7 +167,7 @@ a:focus {
 
 .custom_nav-container .navbar-nav .nav-item .nav-link {
   padding: 5px 20px;
-  color: #ffffff;
+  color: #000000;
   text-align: center;
   text-transform: uppercase;
   border-radius: 5px;
@@ -176,7 +176,7 @@ a:focus {
 }
 
 .custom_nav-container .navbar-nav .nav-item:hover .nav-link, .custom_nav-container .navbar-nav .nav-item.active .nav-link {
-  color: #000000;
+  color: #808080;
 }
 
 .custom_nav-container .nav_search-btn {
@@ -184,12 +184,12 @@ a:focus {
   height: auto;
   padding: 0;
   border: none;
-  color: #ffffff;
+  color: #000000;
   margin: 0 10px;
 }
 
 .custom_nav-container .nav_search-btn:hover {
-  color: #000000;
+  color: #808080;
 }
 
 .user_option {
@@ -206,11 +206,11 @@ a:focus {
 }
 
 .user_option .user_link {
-  color: #ffffff;
+  color: #000000;
 }
 
 .user_option .user_link:hover {
-  color: #000000;
+  color: #808080;
 }
 
 .user_option .cart_link {
