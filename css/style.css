@@ -148,7 +148,7 @@ a:focus {
 }
 
 .navbar-brand {
-  font-family: 'Dancing Script', cursive;
+  font-family: 'Yu Mincho', cursive;
 }
 
 .navbar-brand span {
@@ -176,7 +176,7 @@ a:focus {
 }
 
 .custom_nav-container .navbar-nav .nav-item:hover .nav-link, .custom_nav-container .navbar-nav .nav-item.active .nav-link {
-  color: #ffbe33;
+  color: #000000;
 }
 
 .custom_nav-container .nav_search-btn {
@@ -189,7 +189,7 @@ a:focus {
 }
 
 .custom_nav-container .nav_search-btn:hover {
-  color: #ffbe33;
+  color: #000000;
 }
 
 .user_option {
@@ -210,7 +210,7 @@ a:focus {
 }
 
 .user_option .user_link:hover {
-  color: #ffbe33;
+  color: #000000;
 }
 
 .user_option .cart_link {
@@ -233,13 +233,13 @@ a:focus {
 }
 
 .user_option .cart_link:hover svg {
-  fill: #ffbe33;
+  fill: #000000;
 }
 
 .user_option .order_online {
   display: inline-block;
   padding: 8px 30px;
-  background-color: #ffbe33;
+  background-color: #000000;
   color: #ffffff;
   border-radius: 45px;
   -webkit-transition: all 0.3s;
@@ -354,7 +354,7 @@ a:focus {
 .slider_section .detail-box a {
   display: inline-block;
   padding: 10px 45px;
-  background-color: #ffbe33;
+  background-color: #000000;
   color: #ffffff;
   border-radius: 45px;
   -webkit-transition: all 0.3s;
