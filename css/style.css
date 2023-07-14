@@ -559,12 +559,12 @@ a:focus {
   display: flex;
   -webkit-box-pack: justify;
       -ms-flex-pack: justify;
-          justify-content: space-between;
+          justify-content: center;
 }
 
 .food_section .box .options a {
   width: 40px;
-  height: 40px;
+  height: 65px;
   border-radius: 100%;
   background: #ffbe33;
   display: -webkit-box;
