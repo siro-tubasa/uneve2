@@ -56,7 +56,7 @@ h2 {
 }
 
 .heading_container h2 span {
-  color: #ffbe33;
+  color: #000000;
 }
 
 .heading_container p {
@@ -248,7 +248,7 @@ a:focus {
 }
 
 .user_option .order_online:hover {
-  background-color: #e69c00;
+  background-color: #000000;
 }
 
 .custom_nav-container .navbar-toggler {
@@ -890,7 +890,7 @@ a:focus {
 .footer_section .footer-logo {
   font-weight: 600;
   margin-bottom: 20px;
-  font-family: 'Dancing Script', cursive;
+  font-family: 'Yu Mincho', cursive;
 }
 
 .footer_section p {
